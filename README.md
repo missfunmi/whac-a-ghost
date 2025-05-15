@@ -1,0 +1,17 @@
+# Whac-a-Ghost
+
+<a href='https://www.recurse.com/scout/click?t=c7bc9ba4cb3e6725e05e413f16f8c5a3' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>
+
+A chaotic 5-second journey through the ✨ exciting ✨ world of online dating.
+
+Profiles pop up fast — press A to match, D to reject. Choose wrong, and you just might get ghosted yourself.💔✨
+
+It's fast, messy, and painfully relatable — just like real dating apps.
+
+Built for [Recurse Center's NGW 2025 Game Jam](https://itch.io/jam/rc-ngw-2025-game-jam). A modified version of the game exists to be played as part of Claire Froelich's [miRCo Engine](https://github.com/clairefro/miRCo-engine), but playable by itself by building and running the code locally (see below).
+
+## Local development
+
+1. Install dependencies with `yarn` and `echo 'nodeLinker: node-modules' > .yarnrc.yml` and `yarn dlx @yarnpkg/sdks vscode`
+2. Start the application with `yarn dev`
+3. Open https://localhost:5173 in your browser

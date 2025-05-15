@@ -1,0 +1,6 @@
+{
+  "name": "ghosted",
+  "assets": ["matchable.png", "ghostable.png"],
+  "instruction": "Match (D) or Ghost (A)!",
+  "author": "Funmi Oludaiye"
+}
