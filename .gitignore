@@ -1,4 +1,5 @@
 _stash/
+.idea/
 
 # dependencies
 /node_modules
