@@ -14,7 +14,7 @@
     "url": "https://missfunmi.com/"
   },
   "license": "ISC",
-  "packageManager": "yarn@4.9.1",
+  "packageManager": "yarn@4.12.0",
   "devDependencies": {
     "@tailwindcss/vite": "^4",
     "@types/p5": "^1.7.6",
